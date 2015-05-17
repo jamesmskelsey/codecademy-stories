@@ -1,0 +1,21 @@
+// Place all the styles related to the Pages controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+body {
+	font-family: Roboto, sans-serif;
+	}
+	
+.btn-default, .btn-primary {
+	font-size: 16px;
+	border-radius: 0px;
+}
+
+.home-main .container {
+	height: 700px;
+}
+
+.home-main .content {
+	margin-top: 150px;
+	text-align: center;
+}
